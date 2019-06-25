@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/twitter-thread-generator/static/css/main.1bb75b1b.chunk.css",
+    "main.js": "/twitter-thread-generator/static/js/main.41b6c4ab.chunk.js",
+    "main.js.map": "/twitter-thread-generator/static/js/main.41b6c4ab.chunk.js.map",
+    "runtime~main.js": "/twitter-thread-generator/static/js/runtime~main.0ac42fbc.js",
+    "runtime~main.js.map": "/twitter-thread-generator/static/js/runtime~main.0ac42fbc.js.map",
+    "static/js/2.3f716869.chunk.js": "/twitter-thread-generator/static/js/2.3f716869.chunk.js",
+    "static/js/2.3f716869.chunk.js.map": "/twitter-thread-generator/static/js/2.3f716869.chunk.js.map",
+    "index.html": "/twitter-thread-generator/index.html",
+    "precache-manifest.ac2c12b35d22fd75aac93f6f1732dd5f.js": "/twitter-thread-generator/precache-manifest.ac2c12b35d22fd75aac93f6f1732dd5f.js",
+    "service-worker.js": "/twitter-thread-generator/service-worker.js",
+    "static/css/main.1bb75b1b.chunk.css.map": "/twitter-thread-generator/static/css/main.1bb75b1b.chunk.css.map",
+    "static/media/twitter.svg": "/twitter-thread-generator/static/media/twitter.6ca35672.svg"
+  }
+}
