@@ -1,13 +1,12 @@
-<h1 align="center">Welcome to twitter-thread-generator 👋</h1>
-<p>
-  <img src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-</p>
+<h1 align="center">Twitter Thread Generator</h1>
 
 > Automatically divide your Twitter threads
 
-### 🏠 [Homepage](https://github.com/christopherkade/twitter-thread-generator)
+![screenshot](https://user-images.githubusercontent.com/15229355/60136223-e4775500-97a3-11e9-9c9b-bc63201fd601.png)
 
 ## Usage
+
+To run this project locally:
 
 ```sh
 yarn start
